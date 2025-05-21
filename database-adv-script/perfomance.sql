@@ -1,5 +1,5 @@
 -- First, select all the data from the Booking table
-
+EXPLAIN
 SELECT 
     b.booking_id,
     b.start_date,
