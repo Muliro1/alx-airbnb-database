@@ -1,3 +1,5 @@
+-- First, select all the data from the Booking table
+
 SELECT 
     b.booking_id,
     b.start_date,
